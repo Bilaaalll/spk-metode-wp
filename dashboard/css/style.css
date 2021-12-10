@@ -1,0 +1,13 @@
+.navbar #judul{
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    /* margin-left: 60px; */
+    margin-left: 20px;
+}
+
+nav .navbar-collapse ul, 
+nav ul li{
+    background-color: #212529;
+}
